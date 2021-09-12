@@ -14,3 +14,5 @@ https://github.com/ebal/tf/tree/master/0.15/libvirt/0.6.3/ubuntu/20.04
 https://balaskas.gr/blog/2020/09/12/vms-on-kvm-with-terraform/
 
 https://www.digitalocean.com/community/tutorials/how-to-use-cloud-config-for-your-initial-server-setup
+
+https://initx.dev/devops/terraform-libvirt/
