@@ -16,3 +16,5 @@ https://balaskas.gr/blog/2020/09/12/vms-on-kvm-with-terraform/
 https://www.digitalocean.com/community/tutorials/how-to-use-cloud-config-for-your-initial-server-setup
 
 https://initx.dev/devops/terraform-libvirt/
+
+https://computingforgeeks.com/how-to-provision-vms-on-kvm-with-terraform/
