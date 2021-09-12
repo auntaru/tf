@@ -18,3 +18,5 @@ https://www.digitalocean.com/community/tutorials/how-to-use-cloud-config-for-you
 https://initx.dev/devops/terraform-libvirt/
 
 https://computingforgeeks.com/how-to-provision-vms-on-kvm-with-terraform/
+
+https://fedoramagazine.org/setting-up-a-vm-on-fedora-server-using-cloud-images-and-virt-install-version-3/
