@@ -20,3 +20,5 @@ https://initx.dev/devops/terraform-libvirt/
 https://computingforgeeks.com/how-to-provision-vms-on-kvm-with-terraform/
 
 https://fedoramagazine.org/setting-up-a-vm-on-fedora-server-using-cloud-images-and-virt-install-version-3/
+
+https://www.desgehtfei.net/en/quick-start-kvm-libvirt-vms-with-terraform-and-ansible-part-2/
