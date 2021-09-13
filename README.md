@@ -22,3 +22,15 @@ https://computingforgeeks.com/how-to-provision-vms-on-kvm-with-terraform/
 https://fedoramagazine.org/setting-up-a-vm-on-fedora-server-using-cloud-images-and-virt-install-version-3/
 
 https://www.desgehtfei.net/en/quick-start-kvm-libvirt-vms-with-terraform-and-ansible-part-2/
+
+https://fabianlee.org/2021/07/05/kvm-installing-terraform-and-the-libvirt-provider-for-local-kvm-resources/
+https://fabianlee.org/2020/02/22/kvm-terraform-and-cloud-init-to-create-local-kvm-resources/
+https://github.com/auntaru/terraform-libvirt-ubuntu-examples
+https://github.com/fabianlee/terraform-libvirt-ubuntu-examples
+
+https://yping88.medium.com/building-and-installing-terraform-provider-for-libvirt-a08a29f93135
+
+https://blog.ruanbekker.com/blog/2020/10/08/using-the-libvirt-provisioner-with-terraform-for-kvm/
+
+
+
