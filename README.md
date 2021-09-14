@@ -32,5 +32,11 @@ https://yping88.medium.com/building-and-installing-terraform-provider-for-libvir
 
 https://blog.ruanbekker.com/blog/2020/10/08/using-the-libvirt-provisioner-with-terraform-for-kvm/
 
+https://initx.dev/devops/terraform-libvirt/
+Disable selinux :
+sed -i 's/security_driver = "selinux"/security_driver = "none"/g' /etc/libvirt/qemu.conf
+systemctl restart libvirtd
 
+
+https://en.wikipedia.org/wiki/Open_vSwitch
 
